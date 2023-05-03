@@ -1,0 +1,48 @@
+#login {
+  position: absolute;
+  right: 20px;
+  text-decoration: underline;
+  font-size: large;
+}
+
+.header {
+  margin: 0;
+  background-color: red;
+  display: flex;
+  color: white;
+  
+}
+
+.nav {
+  background-color: gray;
+}
+
+#link {
+  float: right;
+  text-decoration: underline;
+  color: white;
+}
+
+#header {
+  float: left;
+  font-size: xx-large;
+}
+
+#image {
+  width: 950px;
+  height: 550px;
+}
+
+#articletitle {
+  font-size: x-large;
+}
+
+#sideimage {
+  width: 250px;
+  height: 150px;
+}
+
+.aside {
+  position: absolute;
+  right: 20px;
+}
